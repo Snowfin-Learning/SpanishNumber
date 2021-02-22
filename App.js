@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
       flexWrap: 'wrap',
       alignItems: 'flex-start',
       justifyContent: 'space-around',
-      marginTop: 20
+      marginTop: 25
     },
     box: {
       height: 110,
